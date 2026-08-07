@@ -1,0 +1,16 @@
+[
+  {
+    "username": "founder_throwaway_42",
+    "createdUtc": "2024-02-10T00:00:00Z",
+    "commentKarma": 340,
+    "postKarma": 120,
+    "isSuspended": false
+  },
+  {
+    "username": "shadowbanned_test_user",
+    "createdUtc": "2025-05-01T00:00:00Z",
+    "commentKarma": 12,
+    "postKarma": 0,
+    "isSuspended": false
+  }
+]

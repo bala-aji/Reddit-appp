@@ -1,0 +1,113 @@
+[
+  {
+    "draftBody": "Honestly Thread is exactly what you're describing, you should just sign up.",
+    "productName": "Thread",
+    "intentScore": 6,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": false, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "self-promo in a no-promo subreddit"
+  },
+  {
+    "draftBody": "Here's the one I use, works great: https://example.com/thread",
+    "productName": "Thread",
+    "productUrl": "https://example.com/thread",
+    "intentScore": 4,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "link with low intent score (< 8)"
+  },
+  {
+    "draftBody": "Just drop a link here: https://example.com/thread — works for me.",
+    "productName": "Thread",
+    "productUrl": "https://example.com/thread",
+    "intentScore": 9,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": false },
+    "isKnownViolation": true,
+    "violationType": "link in a no-links subreddit"
+  },
+  {
+    "draftBody": "Thread solves this well. I'd genuinely recommend Thread over anything else out there.",
+    "productName": "Thread",
+    "intentScore": 8,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "product mentioned more than once"
+  },
+  {
+    "draftBody": "Great question! We built exactly this into our tool.",
+    "productName": "Thread",
+    "intentScore": 7,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "banned LLM-cadence phrase"
+  },
+  {
+    "draftBody": "It's fast — it's reliable — it's simple — and it's cheap — every time we've tested it.",
+    "productName": "Thread",
+    "intentScore": 7,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "heavy em-dash cadence"
+  },
+  {
+    "draftBody": "A few things that helped us:\n- switched queues\n- added retries\n- capped concurrency",
+    "productName": "Thread",
+    "intentScore": 7,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "bullet list in a thread that doesn't use them"
+  },
+  {
+    "draftBody": "Thread is the tool for this. We built it specifically for this exact problem, been using it for months.",
+    "productName": "Thread",
+    "intentScore": 7,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": true,
+    "violationType": "product mentioned before any value is delivered"
+  },
+  {
+    "draftBody": "This came up for us too. Ended up writing a small script that polls every 5 minutes and dedupes on a hash of the payload — held up fine at our volume.",
+    "productName": "Thread",
+    "intentScore": 6,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": false, "allowsLinks": false },
+    "isKnownViolation": false,
+    "violationType": "n/a — value-first, no product mention, no link"
+  },
+  {
+    "draftBody": "We ran into the same thing on Postgres — turned out to be missing an index on the join column. Worth checking EXPLAIN ANALYZE first before reaching for a bigger instance.",
+    "productName": "Thread",
+    "intentScore": 3,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": true, "allowsLinks": true },
+    "isKnownViolation": false,
+    "violationType": "n/a — generic helpful reply, no promotion at all"
+  },
+  {
+    "draftBody": "A dead-simple cron plus a Redis set for dedupe got us 90% of the way there before we needed anything fancier. Worth trying before reaching for a paid tool.",
+    "productName": "Thread",
+    "intentScore": 8,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": false, "allowsLinks": false },
+    "isKnownViolation": false,
+    "violationType": "n/a — no product mention despite matching audience/intent"
+  },
+  {
+    "draftBody": "This is exactly what Thread was built for — check it out, https://example.com/thread. Thread will save you hours here.",
+    "productName": "Thread",
+    "productUrl": "https://example.com/thread",
+    "intentScore": 9,
+    "threadUsesBullets": false,
+    "subredditRules": { "allowsPromo": false, "allowsLinks": false },
+    "isKnownViolation": true,
+    "violationType": "stacked violations: self-promo prohibited, link prohibited, mentioned twice, before value"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "fullname": "t3_gs001",
+    "subreddit": "SaaS",
+    "title": "What's the best tool for tracking Reddit mentions of my product?",
+    "body": "I keep missing threads where people ask for recommendations in my niche. Manually searching Reddit every day is eating 2 hours. Is there anything that surfaces relevant threads automatically?",
+    "createdUtc": "2026-07-01T14:32:00Z",
+    "score": 34,
+    "numComments": 12,
+    "humanIntentScore": 9,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs002",
+    "subreddit": "SaaS",
+    "title": "Alternatives to Syften for keyword monitoring?",
+    "body": "Syften has been fine but I want something with better subreddit rule detection so I stop getting comments removed. What's everyone using in 2026?",
+    "createdUtc": "2026-07-02T18:45:00Z",
+    "score": 61,
+    "numComments": 27,
+    "humanIntentScore": 9,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs003",
+    "subreddit": "Entrepreneur",
+    "title": "My dog ate my laptop charger, unrelated business update inside",
+    "body": "Not looking for tool recommendations, just venting about a rough week.",
+    "createdUtc": "2026-07-03T09:10:00Z",
+    "score": 5,
+    "numComments": 3,
+    "humanIntentScore": 0,
+    "humanRelevant": false
+  },
+  {
+    "fullname": "t3_gs004",
+    "subreddit": "startups",
+    "title": "How do you all find early customers on Reddit without getting banned?",
+    "body": "Every time I try to mention my product I get downvoted to oblivion or the mods remove it. Is there an actual playbook for this?",
+    "createdUtc": "2026-07-04T11:20:00Z",
+    "score": 88,
+    "numComments": 41,
+    "humanIntentScore": 8,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs005",
+    "subreddit": "marketing",
+    "title": "Best AI visibility / GEO tools in 2026?",
+    "body": "Trying to figure out if ChatGPT and Perplexity recommend my SaaS at all. Anyone using a tool to track this instead of manually prompting every week?",
+    "createdUtc": "2026-07-05T16:00:00Z",
+    "score": 112,
+    "numComments": 38,
+    "humanIntentScore": 10,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs006",
+    "subreddit": "webdev",
+    "title": "Best way to center a div in 2026?",
+    "body": "Is flexbox still the way to go or is there something better now?",
+    "createdUtc": "2026-07-06T08:15:00Z",
+    "score": 22,
+    "numComments": 19,
+    "humanIntentScore": 0,
+    "humanRelevant": false
+  },
+  {
+    "fullname": "t3_gs007",
+    "subreddit": "GrowthHacking",
+    "title": "Anyone tried an agency workflow for managing Reddit across 8 client accounts?",
+    "body": "Spreadsheets are falling apart. Looking for something built for agencies, not solo founders.",
+    "createdUtc": "2026-07-07T13:40:00Z",
+    "score": 47,
+    "numComments": 15,
+    "humanIntentScore": 8,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs008",
+    "subreddit": "SaaS",
+    "title": "PSA: don't buy aged Reddit accounts, you will get banned",
+    "body": "Saw someone selling 5-year-old accounts for outreach. Just a heads up this is against the rules and gets your whole domain shadow-filtered.",
+    "createdUtc": "2026-07-08T10:05:00Z",
+    "score": 210,
+    "numComments": 54,
+    "humanIntentScore": 3,
+    "humanRelevant": false
+  },
+  {
+    "fullname": "t3_gs009",
+    "subreddit": "Entrepreneur",
+    "title": "GummySearch vs RedditGrow vs OctoLens — which one actually works?",
+    "body": "Comparing a few Reddit monitoring tools before I commit to a subscription. Curious which one people have actually stuck with past month one.",
+    "createdUtc": "2026-07-09T20:30:00Z",
+    "score": 76,
+    "numComments": 33,
+    "humanIntentScore": 9,
+    "humanRelevant": true
+  },
+  {
+    "fullname": "t3_gs010",
+    "subreddit": "smallbusiness",
+    "title": "Is it worth hiring someone just to watch Reddit for leads?",
+    "body": "We get a decent number of customers from Reddit threads but it takes hours a day to find them. Wondering if a part-time hire or a tool makes more sense.",
+    "createdUtc": "2026-07-10T15:55:00Z",
+    "score": 39,
+    "numComments": 21,
+    "humanIntentScore": 7,
+    "humanRelevant": true
+  }
+]

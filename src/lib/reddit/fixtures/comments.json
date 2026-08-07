@@ -1,0 +1,26 @@
+[
+  {
+    "fullname": "t1_c1c1c1",
+    "parentFullname": "t3_1a1a1a",
+    "postFullname": "t3_1a1a1a",
+    "subreddit": "SaaS",
+    "body": "We use a mix of Google Alerts and manual search, honestly not great.",
+    "author": "another_founder",
+    "permalink": "/r/SaaS/comments/1a1a1a/c1c1c1",
+    "createdUtc": "2026-08-01T15:00:00Z",
+    "score": 4,
+    "isRemoved": false
+  },
+  {
+    "fullname": "t1_c2c2c2",
+    "parentFullname": "t3_3c3c3c",
+    "postFullname": "t3_3c3c3c",
+    "subreddit": "SaaS",
+    "body": "[removed]",
+    "author": "spammy_user",
+    "permalink": "/r/SaaS/comments/3c3c3c/c2c2c2",
+    "createdUtc": "2026-08-03T19:00:00Z",
+    "score": 0,
+    "isRemoved": true
+  }
+]

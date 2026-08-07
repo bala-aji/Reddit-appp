@@ -1,0 +1,28 @@
+[
+  {
+    "subreddit": "SaaS",
+    "subscribers": 180000,
+    "allowsPromo": false,
+    "allowsLinks": true,
+    "minAccountAgeDays": 30,
+    "minKarma": 50,
+    "rawRulesText": [
+      "No self-promotion or advertising outside of designated threads.",
+      "Links must be relevant to the discussion, not primarily promotional."
+    ],
+    "fetchedAt": "2026-08-01T00:00:00Z"
+  },
+  {
+    "subreddit": "Entrepreneur",
+    "subscribers": 4200000,
+    "allowsPromo": false,
+    "allowsLinks": false,
+    "minAccountAgeDays": 7,
+    "minKarma": 10,
+    "rawRulesText": [
+      "No advertising, promotion, or spam of any kind.",
+      "No links to personal blogs, products, or services."
+    ],
+    "fetchedAt": "2026-08-01T00:00:00Z"
+  }
+]
